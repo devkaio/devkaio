@@ -1,7 +1,11 @@
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devkaio/)](https://github.com/devkaio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devkaio/)](https://www.linkedin.com/in/devkaio/)
 
-<a href="https://github.com/devkaio">
-  <img align="center" src="https://github-readme-stats-devkaio.vercel.app/api?username=devkaio&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/devkaio">
-  <img align="center" src="https://github-readme-stats-devkaio.vercel.app/api/top-langs/?username=devkaio&theme=dark" />
-</a>
+[![devkaio's GitHub stats](https://github-readme-stats-devkaio.vercel.app/api?username=devkaio&show_icons=true&theme=dark)](https://github.com/devkaio)
+
+[![Top Langs](https://github-readme-stats-devkaio.vercel.app/api/top-langs/?username=devkaio&theme=dark&layout=compact)](https://github.com/devkaio)
+
+
+[![Dart Badge](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=dart&logoColor=white&color=16a085)](https://github.com/devkaio)
+[![Flutter Badge](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=16a085)](https://github.com/devkaio)
+
