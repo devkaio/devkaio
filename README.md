@@ -6,6 +6,6 @@
 [![Top Langs](https://github-readme-stats-devkaio.vercel.app/api/top-langs/?username=devkaio&theme=dark&layout=compact)](https://github.com/devkaio)
 
 
-[![Dart Badge](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=dart&logoColor=white&color=16a085)](https://github.com/devkaio)
+[![Dart Badge](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=16a085)](https://github.com/devkaio)
 [![Flutter Badge](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=16a085)](https://github.com/devkaio)
 
